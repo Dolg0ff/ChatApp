@@ -15,7 +15,7 @@ namespace ChatApp.Servise
     {
         private IMessageServiseCallback _callBack = null;
         private ObservableCollection<User> _users;
-        private Dictionary<string, IMessageServiseCallback> _clients;
+        private readonly Dictionary<string, IMessageServiseCallback> _clients;
         public MessageService()
         {
             _users = new ObservableCollection<User>();

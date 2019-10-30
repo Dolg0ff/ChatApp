@@ -3,3 +3,8 @@ C:\Users\Юрий\Projects\ChatApp\ChatApp\bin\Debug\ChatApp.dll
 C:\Users\Юрий\Projects\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
 C:\Users\Юрий\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.dll
 C:\Users\Юрий\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+C:\Users\Dolg0\OneDrive\Документы\GitHub\ChatApp\ChatApp\bin\Debug\ChatApp.dll
+C:\Users\Dolg0\OneDrive\Документы\GitHub\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+C:\Users\Dolg0\OneDrive\Документы\GitHub\ChatApp\ChatApp\obj\Debug\ChatApp.Contracts.csprojAssemblyReference.cache
+C:\Users\Dolg0\OneDrive\Документы\GitHub\ChatApp\ChatApp\obj\Debug\ChatApp.dll
+C:\Users\Dolg0\OneDrive\Документы\GitHub\ChatApp\ChatApp\obj\Debug\ChatApp.pdb

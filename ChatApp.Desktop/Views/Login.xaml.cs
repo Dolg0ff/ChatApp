@@ -1,6 +1,10 @@
-﻿using System;
+﻿using ChatApp.Desktop.ViewModels;
+using ChatApp.Domain;
+using ChatContracts.Contract;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.ServiceModel;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -40,7 +44,21 @@ namespace ChatApp.Desktop.Views
         {
             if(!string.IsNullOrEmpty(Username.Text))
             {
-                User
+                User user = new User
+                {
+                    TimeCreated = DateTime.UtcNow,
+                    Name = Username.Text
+                };
+                _window.MainView = new Main(_window,user);
+                var uri = "net.tcp://localhost:6565/MessageService";
+                var callBack = new InstanceContext(new MessageCallBack());
+                var binding = new NetTcpBinding(SecurityMode.None);
+                var channel = new DuplexChannelFactory<IMessageService>(callBack, binding);
+                var endPoint = new EndpointAddress(uri);
+                var proxy = channel.CreateChannel(endPoint);
+                proxy?.Connect(user);
+                _window.Main.Children.Clear();
+                _window.Main.Children.Add(_window.MainView);
             }
         }
     }

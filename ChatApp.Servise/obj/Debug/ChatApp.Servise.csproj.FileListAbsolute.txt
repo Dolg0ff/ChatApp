@@ -7,3 +7,12 @@ C:\Users\Юрий\Projects\ChatApp\ChatApp.Servise\bin\Debug\ChatApp.pdb
 C:\Users\Юрий\Projects\ChatApp\ChatApp.Servise\obj\Debug\ChatApp.Servise.csproj.CopyComplete
 C:\Users\Юрий\Projects\ChatApp\ChatApp.Servise\obj\Debug\ChatApp.Servise.exe
 C:\Users\Юрий\Projects\ChatApp\ChatApp.Servise\obj\Debug\ChatApp.Servise.pdb
+C:\Users\Dolg0\OneDrive\Документы\GitHub\ChatApp\ChatApp.Servise\bin\Debug\ChatApp.Servise.exe.config
+C:\Users\Dolg0\OneDrive\Документы\GitHub\ChatApp\ChatApp.Servise\bin\Debug\ChatApp.Servise.exe
+C:\Users\Dolg0\OneDrive\Документы\GitHub\ChatApp\ChatApp.Servise\bin\Debug\ChatApp.Servise.pdb
+C:\Users\Dolg0\OneDrive\Документы\GitHub\ChatApp\ChatApp.Servise\bin\Debug\ChatApp.dll
+C:\Users\Dolg0\OneDrive\Документы\GitHub\ChatApp\ChatApp.Servise\bin\Debug\ChatApp.pdb
+C:\Users\Dolg0\OneDrive\Документы\GitHub\ChatApp\ChatApp.Servise\obj\Debug\ChatApp.Servise.csprojAssemblyReference.cache
+C:\Users\Dolg0\OneDrive\Документы\GitHub\ChatApp\ChatApp.Servise\obj\Debug\ChatApp.Servise.csproj.CopyComplete
+C:\Users\Dolg0\OneDrive\Документы\GitHub\ChatApp\ChatApp.Servise\obj\Debug\ChatApp.Servise.exe
+C:\Users\Dolg0\OneDrive\Документы\GitHub\ChatApp\ChatApp.Servise\obj\Debug\ChatApp.Servise.pdb

@@ -24,5 +24,30 @@ namespace ChatApp.Desktop.Views
         {
             InitializeComponent();
         }
+        public Label MessageTitle
+        {
+            get { return Title; }
+            set { Title = value; }
+        }
+        public Button SendMessageButton
+        {
+            get { return SendButton; }
+            set { SendButton = value; }
+        }
+        public ScrollViewer ContentScrollViewer
+        {
+            get { return ContentScroller; }
+            set { ContentScroller = value; }
+        }
+        public TextBox MessageContainer
+        {
+            get { return MessageContent; }
+            set { MessageContent = value; }
+        }
+        public ItemsControl MessageDisplay
+        {
+            get { return MessageTemplate; }
+            set { MessageTemplate = value; }
+        }
     }
 }
